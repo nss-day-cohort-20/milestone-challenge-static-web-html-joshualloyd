@@ -58,3 +58,19 @@ element.
 * Explore and create color combinations: https://color.adobe.com
 * Material Color: https://material.io/guidelines/style/color.html#color-color-system
     - Material color tool - https://material.io/color/#!/?view.left=0&view.right=0
+```
+validator.w3.org
+The W3C Markup Validation Service
+W3C's easy-to-use markup validation service, based on SGML and XML parsers.
+ meetcontent.com
+Introducing Your Content: Page Titles and Headings | Meet Content
+There’s a lot riding on page titles and headers to inform and guide web users. These guidelines ensure your words are meaningful, relevant, and clear.
+Adobe Kuler
+Color wheel | Color schemes
+Create color schemes with the color wheel or browse thousands of color combinations from the Kuler community.
+ 
+ Material design guidelines
+Color - Style - Material design guidelines (63kB)
+ material.io
+Color Tool - Material Design
+An interactive tool to create, share, and apply color palettes to your UI, as well as measure the accessibility level of any color combination. (24kB)
