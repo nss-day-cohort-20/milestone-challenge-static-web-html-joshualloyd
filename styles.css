@@ -1,0 +1,86 @@
+/* COLORS
+yellow     #F5D833
+magenta    #C2158A
+baby blue  #4CF1F7
+light gray #F1F1F1
+*/
+
+
+@media (max-width: 40em) {
+	body {
+		padding: 2em;
+	}
+}
+
+body {
+	background-color: #F5D833;
+	max-width: 40em;
+	margin: 0 auto;
+}
+
+.main-wrapper {
+	background-color: white;
+	padding: 1em;
+	box-shadow:
+	0 0 0 5px #F5D833,
+	0 0 0 10px #4CF1F7,
+	0 0 0 15px #C2158A;
+/*	0 0 5px 17px rgba(117, 104, 24, 0.4);*/
+}
+
+.top-margin-fix {
+	margin-top: 0;
+}
+
+* {
+	font-family: Raleway, Helvetica, Arial, sans-serif;
+	line-height: 1.5em;
+}
+
+a:link {
+	color: #C2158A;
+}
+
+a:visited {
+	color: #C2158A;
+}
+
+img.selfie {
+	width: 100%;
+	height: auto;
+	box-shadow: 0 3px 5px 0 rgba(117, 104, 24, 0.5);
+
+}
+
+.project-cards {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.project-card {
+	display: inline-block;
+	width: 15em;
+	padding: 1em;
+	background-color: #C2158A;
+	color: white;
+	text-align: center;
+	margin: 10px;
+}
+
+article {
+	margin: 2em 0;
+}
+
+.blue-underline {
+	border-bottom: 3px #4CF1F7 solid;
+}
+
+footer {
+	text-align: center;
+}
+
+.icon {
+	height: 2em;
+	margin-right: .5em;
+}
